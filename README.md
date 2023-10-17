@@ -99,7 +99,7 @@ Well I am thinking to maybe sew or merge some other sort of data as in a feature
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [ CC0-1.0 license ](LICENSE).
 
 ---
 
