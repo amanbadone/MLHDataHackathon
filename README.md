@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was developed by Aman Badone, for the purpose of just a fun hackathon event conducted by MLH during October 13-15.Based upon the theme of "Data".And ultimately Predicts Agricultural Produce nased upon area and year as the features
+This project was developed by Aman Badone, for the purpose of just a fun hackathon event conducted by MLH during October 13-15.Based upon the theme of "Data".And ultimately Predicts Agricultural Produce based upon area and year as the features
 
 ## Table of Contents
 
